@@ -1,0 +1,3 @@
+SELECT [Hospital].[FContarNumeroPacientes] ()
+
+

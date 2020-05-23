@@ -1,0 +1,1 @@
+EXECUTE Hospital.usp_IntroduccionNuevoMedico N'NRB', N'Natalia', N'Rodriguez Benito', N'Cirugia', N'2020-02-02', N'Cirujana0', N'6272', N'';

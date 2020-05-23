@@ -1,0 +1,1 @@
+EXECUTE Hospital.usp_MostrarPacientesIngresadosEntreFechas '2009-01-01', '2009-05-31'
